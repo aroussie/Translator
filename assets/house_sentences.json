@@ -1,0 +1,20 @@
+{
+  "title": "House sentences",
+  "id": 1,
+  "questions": [
+    {"question":"Un mouchoir","answers":[{"answer":"A glass","isRightAnswer":false},{"answer":"A tissue","isRightAnswer":true},{"answer":"A chair","isRightAnswer":false},{"answer":"A towel","isRightAnswer":false}]},
+    {"question":"A glass","answers":[{"answer":"une serviette","isRightAnswer":false},{"answer":"Une tasse","isRightAnswer":false},{"answer":"Un couteau","isRightAnswer":false},{"answer":"Un verre","isRightAnswer":true}]},
+    {"question":"A fork","answers":[{"answer":"Une fourchette","isRightAnswer":true},{"answer":"Une cuillere","isRightAnswer":false},{"answer":"Un couteau","isRightAnswer":false},{"answer":"Une serviette","isRightAnswer":false}]},
+    {"question":"Un couteau","answers":[{"answer":"A glass","isRightAnswer":false},{"answer":"A plate","isRightAnswer":false},{"answer":"A knife","isRightAnswer":true},{"answer":"A spoon","isRightAnswer":false}]},
+    {"question":"A spoon","answers":[{"answer":"Une cuillère","isRightAnswer":true},{"answer":"Une assiette","isRightAnswer":false},{"answer":"Une table","isRightAnswer":false},{"answer":"Une fourchette","isRightAnswer":false}]},
+    {"question":"Une assiette","answers":[{"answer":"A fork","isRightAnswer":false},{"answer":"A plate","isRightAnswer":true},{"answer":"A tissue","isRightAnswer":false},{"answer":"Bread","isRightAnswer":false}]},
+    {"question":"Sel","answers":[{"answer":"Pepper","isRightAnswer":false},{"answer":"onions","isRightAnswer":false},{"answer":"jalapenos","isRightAnswer":false},{"answer":"Salt","isRightAnswer":true}]},
+    {"question":"Porc","answers":[{"answer":"Chicken","isRightAnswer":false},{"answer":"Beef","isRightAnswer":false},{"answer":"Pork","isRightAnswer":true},{"answer":"Lamb","isRightAnswer":false}]},
+    {"question":"Poulet","answers":[{"answer":"Chicken","isRightAnswer":true},{"answer":"Beef","isRightAnswer":false},{"answer":"Pork","isRightAnswer":false},{"answer":"Lamb","isRightAnswer":false}]},
+    {"question":"Poivre","answers":[{"answer":"Salt","isRightAnswer":false},{"answer":"Pepper","isRightAnswer":true},{"answer":"Onions","isRightAnswer":false},{"answer":"Jalapeno","isRightAnswer":false}]},
+    {"question":"Agneau","answers":[{"answer":"Chicken","isRightAnswer":false},{"answer":"Beef","isRightAnswer":false},{"answer":"Pork","isRightAnswer":false},{"answer":"Lamb","isRightAnswer":true}]},
+    {"question":"Boeuf","answers":[{"answer":"Chicken","isRightAnswer":false},{"answer":"Beef","isRightAnswer":true},{"answer":"Pork","isRightAnswer":false},{"answer":"Lamb","isRightAnswer":false}]},
+    {"question":"Tu veux de l'eau?","answers":[{"answer":"You take some water?","isRightAnswer":false},{"answer":"He wants some water?","isRightAnswer":false},{"answer":"You want some water?","isRightAnswer":true},{"answer":"You like water?","isRightAnswer":false}]},
+    {"question":"I can have the bread?","answers":[{"answer":"Je peux avoir le pain?","isRightAnswer":true},{"answer":"Je veux avoir le pain?","isRightAnswer":false},{"answer":"Il peut avoir le pain?","isRightAnswer":false},{"answer":"Je peux etre le pain?","isRightAnswer":false}]}
+  ]
+}

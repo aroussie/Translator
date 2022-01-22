@@ -1,0 +1,24 @@
+{
+  "title": "Basic Verbs",
+  "id": 0,
+  "questions": [
+    {"question":"Je suis","answers":[{"answer":"You are","isRightAnswer":false},{"answer":"I have","isRightAnswer":false},{"answer":"I am","isRightAnswer":true},{"answer":"He is","isRightAnswer":false}]},{
+      "question":"tu as","answers":[{"answer":"You have","isRightAnswer":true},{"answer":"You are","isRightAnswer":false},{"answer":"he has","isRightAnswer":false},{"answer":"You can","isRightAnswer":false}]},{
+      "question":"I can","answers":[{"answer":"Je veux","isRightAnswer":false},{"answer":"Je mange","isRightAnswer":false},{"answer":"Je peux","isRightAnswer":true},{"answer":"Nous voulons","isRightAnswer":false}]},{
+      "question":"He wants","answers":[{"answer":"Il a","isRightAnswer":false},{"answer":"Il veut","isRightAnswer":true},{"answer":"tu veux","isRightAnswer":false},{"answer":"Il prend","isRightAnswer":false}]},{
+      "question":"You are","answers":[{"answer":"Tu as","isRightAnswer":false},{"answer":"Il est","isRightAnswer":false},{"answer":"Nous pouvons","isRightAnswer":false},{"answer":"Tu es","isRightAnswer":true}]},{
+      "question":"Je prends","answers":[{"answer":"I have","isRightAnswer":false},{"answer":"You take","isRightAnswer":false},{"answer":"I take","isRightAnswer":true},{"answer":"I want","isRightAnswer":false}]},{
+      "question":"Je veux","answers":[{"answer":"I can","isRightAnswer":false},{"answer":"I want","isRightAnswer":true},{"answer":"He wants","isRightAnswer":false},{"answer":"He can","isRightAnswer":false}]},{
+      "question":"They are","answers":[{"answer":"Nous avons","isRightAnswer":false},{"answer":"Ils veulent","isRightAnswer":false},{"answer":"Elles sont","isRightAnswer":true},{"answer":"Il est","isRightAnswer":false}]},{
+      "question":"J ai","answers":[{"answer":"I can","isRightAnswer":false},{"answer":"I have","isRightAnswer":true},{"answer":"I am","isRightAnswer":false},{"answer":"I take","isRightAnswer":false}]},{
+      "question":"tu peux","answers":[{"answer":"you can","isRightAnswer":true},{"answer":"You want","isRightAnswer":false},{"answer":"You are","isRightAnswer":false},{"answer":"You take","isRightAnswer":false}]},{
+      "question":"You want","answers":[{"answer":"je veux","isRightAnswer":false},{"answer":"tu es","isRightAnswer":false},{"answer":"il peut","isRightAnswer":false},{"answer":"tu veux","isRightAnswer":true}]},{
+      "question":"Tu es","answers":[{"answer":"I have","isRightAnswer":false},{"answer":"You can","isRightAnswer":false},{"answer":"They are","isRightAnswer":false},{"answer":"You are","isRightAnswer":true}]},{
+      "question":"He has","answers":[{"answer":"Il a","isRightAnswer":true},{"answer":"Il est","isRightAnswer":false},{"answer":"vous pouvez","isRightAnswer":false},{"answer":"Il peut","isRightAnswer":false}]},{
+      "question":"You take","answers":[{"answer":"tu peux","isRightAnswer":false},{"answer":"tu veux","isRightAnswer":false},{"answer":"tu prends","isRightAnswer":true},{"answer":"tu as","isRightAnswer":false}]},{
+      "question":"Il est","answers":[{"answer":"I am","isRightAnswer":false},{"answer":"He is","isRightAnswer":true},{"answer":"He has","isRightAnswer":false},{"answer":"he can","isRightAnswer":false}]},{
+      "question":"Il peut","answers":[{"answer":"I can","isRightAnswer":false},{"answer":"He wants","isRightAnswer":false},{"answer":"He takes","isRightAnswer":false},{"answer":"He can","isRightAnswer":true}]},{
+      "question":"Il prend","answers":[{"answer":"He takes","isRightAnswer":true},{"answer":"He is","isRightAnswer":false},{"answer":"You can","isRightAnswer":false},{"answer":"He wants","isRightAnswer":false}]
+    }
+  ]
+}
